@@ -1,7 +1,3 @@
-ده الـ README كامل — اتفضل:
-
----
-
 # MavenFuzzyFactory — Business Analytics Hackathon
 
 > **E-Commerce Growth Challenge · Top 3 Finish**
